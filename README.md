@@ -1,7 +1,8 @@
 # eu_sou_rico
 My first Flutter project.
 
-## 
+## Objective
+My objective with this project is to learn Dart and Flutter structure to be able to develop mobile applications.
 
 ### Plugins
 dev_dependencies:
